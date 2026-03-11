@@ -9,11 +9,11 @@
 | 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-11 | **Season 1** |
 | 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-11 | **Y11S1 Operation Silent Hunt** |
 | 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-11 | **Season 2026, Patch 12.04** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-11 | **Latest Update 3/10/2026** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-11 | **Update 3/2** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-11 | **Apex Legends: Latest Update 3/10/2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-11 | **Counter-Strike 2 Update** |
 | 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-11 | **March Store Update 2026** |
 | 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Bans Notice Update** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Arena Breakout: Infinite Bans Notice - February 25** |
 | 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Mid-Season Update** |
 
 ---
@@ -22,10 +22,9 @@
 
 ### 守望先锋
 - **Season 1** (2026-02-10)
-- Conquest活动最终周 (3/16结束)
-- 新英雄 Mitzi
-- Patch 3/10 - 英雄平衡调整
-- 6v6回归，Perk天赋系统
+- 6v6回归
+- Perk天赋系统
+- 新英雄系统
 
 [查看官网更新 →](https://overwatch.blizzard.com/news/patch-notes/)
 
@@ -44,23 +43,23 @@
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **Latest Update 3/10/2026** (2026-03-10)
-- Gundam 加入 Wildcard
-- 最新更新 3/10
+- **Apex Legends: Latest Update 3/10/2026** (2026-03-11)
+- Apex Legends: Latest Update 3/10/2026
+- Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Update 3/2** (2026-03-02)
-- 最新更新
-- CSGO 在 Steam 上回归
+- **Counter-Strike 2 Update** (2026-03-11)
+- Counter-Strike 2 Update
+- Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **March Store Update 2026** (2026-03-01)
-- 三月商店更新
-- Map Service Report 40.2
+- **March Store Update 2026** (2026-03-11)
+- March Store Update 2026
+- Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
 
@@ -72,9 +71,9 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Bans Notice Update** (2026-02-25)
-- 封禁公告更新 2/25
-- 违规处理持续进行
+- **Arena Breakout: Infinite Bans Notice - February 25** (2026-03-11)
+- Arena Breakout: Infinite Bans Notice - F
+- Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=2073620)
 
