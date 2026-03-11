@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-11T11:19:55",
+  "lastUpdate": "2026-03-11T12:35:00",
   "games": [
     {
       "id": "overwatch",
@@ -14,10 +14,9 @@
         "name": "Season 1",
         "startDate": "2026-02-10",
         "highlights": [
-          "Conquest活动最终周 (3/16结束)",
-          "新英雄 Mitzi",
-          "Patch 3/10 - 英雄平衡调整",
-          "6v6回归，Perk天赋系统"
+          "6v6回归",
+          "Perk天赋系统",
+          "新英雄系统"
         ]
       }
     },
@@ -67,11 +66,11 @@
       "sourceType": "steam",
       "lastCheck": "2026-03-11",
       "currentSeason": {
-        "name": "Latest Update 3/10/2026",
-        "startDate": "2026-03-10",
+        "name": "Apex Legends: Latest Update 3/10/2026",
+        "startDate": "2026-03-11",
         "highlights": [
-          "Gundam 加入 Wildcard",
-          "最新更新 3/10"
+          "Apex Legends: Latest Update 3/10/2026",
+          "Steam 更新"
         ]
       }
     },
@@ -85,11 +84,11 @@
       "sourceType": "steam",
       "lastCheck": "2026-03-11",
       "currentSeason": {
-        "name": "Update 3/2",
-        "startDate": "2026-03-02",
+        "name": "Counter-Strike 2 Update",
+        "startDate": "2026-03-11",
         "highlights": [
-          "最新更新",
-          "CSGO 在 Steam 上回归"
+          "Counter-Strike 2 Update",
+          "Steam 更新"
         ]
       }
     },
@@ -104,10 +103,10 @@
       "lastCheck": "2026-03-11",
       "currentSeason": {
         "name": "March Store Update 2026",
-        "startDate": "2026-03-01",
+        "startDate": "2026-03-11",
         "highlights": [
-          "三月商店更新",
-          "Map Service Report 40.2"
+          "March Store Update 2026",
+          "Steam 更新"
         ]
       }
     },
@@ -139,11 +138,11 @@
       "sourceType": "steam",
       "lastCheck": "2026-03-11",
       "currentSeason": {
-        "name": "Bans Notice Update",
-        "startDate": "2026-02-25",
+        "name": "Arena Breakout: Infinite Bans Notice - February 25",
+        "startDate": "2026-03-11",
         "highlights": [
-          "封禁公告更新 2/25",
-          "违规处理持续进行"
+          "Arena Breakout: Infinite Bans Notice - F",
+          "Steam 更新"
         ]
       }
     },
