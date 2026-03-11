@@ -8,13 +8,13 @@
 |------|------|------|----------|---------------|
 | 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-11 | **Season 1** |
 | 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-11 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | - | 待检测 |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | - | 待检测 |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | - | 待检测 |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | - | 待检测 |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | - | 待检测 |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | - | 待检测 |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | - | 待检测 |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-11 | **Season 2026, Patch 12.04** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-11 | 待检测 |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-11 | 待检测 |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-11 | 待检测 |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-11 | 待检测 |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-11 | 待检测 |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-11 | 待检测 |
 
 ---
 
@@ -24,23 +24,29 @@
 - **Season 1** (2026-02-10)
 - 6v6回归
 - Perk天赋系统
-- 新英雄 Mizuki/Vendetta/Jetpack Cat/Freja/Anran/Domina/Emre
+- 新英雄系统
 
 [查看官网更新 →](https://overwatch.blizzard.com/news/patch-notes/)
 
 ### 彩虹六号
 - **Y11S1 Operation Silent Hunt** (2026-03-04)
-- 新干员 Solid Snake (合金装备联动)
+- 新干员 Solid Snake
 - 1v1 Arcade模式
 
 [查看官网更新 →](https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/seasons)
+
+### 无畏契约
+- **Season 2026, Patch 12.04** (2026-01-06)
+- Patch 12.04 更新
+- Alpha vs Omega 活动
+
+[查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 
 ---
 
 ## 待办 / 待检测
 
-- [ ] **无畏契约** - 需要检测最新版本
 - [ ] **Apex Legends** - 需要检测最新版本
 - [ ] **CS2** - 需要检测最新版本
 - [ ] **PUBG** - 需要检测最新版本
