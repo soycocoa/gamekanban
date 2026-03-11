@@ -22,9 +22,10 @@
 
 ### 守望先锋
 - **Season 1** (2026-02-10)
-- 6v6回归
-- Perk天赋系统
-- 新英雄系统
+- Conquest活动最终周 (3/16结束)
+- 新英雄 Mitzi
+- Patch 3/10 - 英雄平衡调整
+- 6v6回归，Perk天赋系统
 
 [查看官网更新 →](https://overwatch.blizzard.com/news/patch-notes/)
 
