@@ -10,10 +10,10 @@
 | 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-11 | **Y11S1 Operation Silent Hunt** |
 | 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-11 | **Season 2026, Patch 12.04** |
 | 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-11 | **Apex Legends: Latest Update 3/10/2026** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-11 | **Counter-Strike 2 Update** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-11 | **March Store Update 2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-11 | **New lawsuit wants Valve to repay "billions" earned** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-11 | **PUBG 9th Anniversary Events** |
 | 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Arena Breakout: Infinite Bans Notice - February 25** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Arena Breakout: Infinite Bans Notice - March 11th** |
 | 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Mid-Season Update** |
 
 ---
@@ -50,15 +50,15 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Counter-Strike 2 Update** (2026-03-11)
-- Counter-Strike 2 Update
+- **New lawsuit wants Valve to repay "billions" earned** (2026-03-11)
+- New lawsuit wants Valve to repay "billio
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **March Store Update 2026** (2026-03-11)
-- March Store Update 2026
+- **PUBG 9th Anniversary Events** (2026-03-11)
+- PUBG 9th Anniversary Events
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
@@ -71,8 +71,8 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Arena Breakout: Infinite Bans Notice - February 25** (2026-03-11)
-- Arena Breakout: Infinite Bans Notice - F
+- **Arena Breakout: Infinite Bans Notice - March 11th** (2026-03-11)
+- Arena Breakout: Infinite Bans Notice - M
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=2073620)
