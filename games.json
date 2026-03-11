@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-11T10:55:00+08:00",
+  "lastUpdate": "2026-03-11T11:19:55",
   "games": [
     {
       "id": "overwatch",
@@ -13,7 +13,11 @@
       "currentSeason": {
         "name": "Season 1",
         "startDate": "2026-02-10",
-        "highlights": ["6v6回归", "Perk天赋系统", "新英雄 Mizuki/Vendetta/Jetpack Cat/Freja/Anran/Domina/Emre"]
+        "highlights": [
+          "6v6回归",
+          "Perk天赋系统",
+          "新英雄系统"
+        ]
       }
     },
     {
@@ -28,7 +32,10 @@
       "currentSeason": {
         "name": "Y11S1 Operation Silent Hunt",
         "startDate": "2026-03-04",
-        "highlights": ["新干员 Solid Snake (合金装备联动)", "1v1 Arcade模式"]
+        "highlights": [
+          "新干员 Solid Snake",
+          "1v1 Arcade模式"
+        ]
       }
     },
     {
@@ -41,9 +48,12 @@
       "sourceType": "web",
       "lastCheck": "2026-03-11",
       "currentSeason": {
-        "name": "Season 2026",
+        "name": "Season 2026, Patch 12.04",
         "startDate": "2026-01-06",
-        "highlights": ["Patch 12.04 - 生活质量更新 (3/3)", "Alpha vs Omega 活动", "Ayakashi 皮肤"]
+        "highlights": [
+          "Patch 12.04 更新",
+          "Alpha vs Omega 活动"
+        ]
       }
     },
     {
@@ -54,7 +64,7 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=1172470",
       "sourceType": "steam",
-      "lastCheck": null,
+      "lastCheck": "2026-03-11",
       "currentSeason": null
     },
     {
@@ -65,7 +75,7 @@
       "category": "tactical-shooter",
       "source": "https://store.steampowered.com/news/app=730",
       "sourceType": "steam",
-      "lastCheck": null,
+      "lastCheck": "2026-03-11",
       "currentSeason": null
     },
     {
@@ -76,7 +86,7 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=578080",
       "sourceType": "steam",
-      "lastCheck": null,
+      "lastCheck": "2026-03-11",
       "currentSeason": null
     },
     {
@@ -87,7 +97,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2866900",
       "sourceType": "steam",
-      "lastCheck": null,
+      "lastCheck": "2026-03-11",
       "currentSeason": null
     },
     {
@@ -98,7 +108,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2866900",
       "sourceType": "steam",
-      "lastCheck": null,
+      "lastCheck": "2026-03-11",
       "currentSeason": null
     },
     {
@@ -109,7 +119,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2323230",
       "sourceType": "steam",
-      "lastCheck": null,
+      "lastCheck": "2026-03-11",
       "currentSeason": null
     }
   ]
