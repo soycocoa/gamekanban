@@ -39,8 +39,12 @@
       "category": "tactical-shooter",
       "source": "https://playvalorant.com/en-us/news/game-updates/",
       "sourceType": "web",
-      "lastCheck": null,
-      "currentSeason": null
+      "lastCheck": "2026-03-11",
+      "currentSeason": {
+        "name": "Season 2026",
+        "startDate": "2026-01-06",
+        "highlights": ["Patch 12.04 - 生活质量更新 (3/3)", "Alpha vs Omega 活动", "Ayakashi 皮肤"]
+      }
     },
     {
       "id": "apex",
