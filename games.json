@@ -1,0 +1,112 @@
+{
+  "lastUpdate": "2026-03-11T10:55:00+08:00",
+  "games": [
+    {
+      "id": "overwatch",
+      "name": "守望先锋",
+      "nameEn": "Overwatch",
+      "status": "active",
+      "category": "hero-shooter",
+      "source": "https://overwatch.blizzard.com/news/patch-notes/",
+      "sourceType": "web",
+      "lastCheck": "2026-03-11",
+      "currentSeason": {
+        "name": "Season 1",
+        "startDate": "2026-02-10",
+        "highlights": ["6v6回归", "Perk天赋系统", "新英雄 Mizuki/Vendetta/Jetpack Cat/Freja/Anran/Domina/Emre"]
+      }
+    },
+    {
+      "id": "r6siege",
+      "name": "彩虹六号",
+      "nameEn": "Rainbow Six Siege",
+      "status": "active",
+      "category": "tactical-shooter",
+      "source": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/seasons",
+      "sourceType": "web",
+      "lastCheck": "2026-03-11",
+      "currentSeason": {
+        "name": "Y11S1 Operation Silent Hunt",
+        "startDate": "2026-03-04",
+        "highlights": ["新干员 Solid Snake (合金装备联动)", "1v1 Arcade模式"]
+      }
+    },
+    {
+      "id": "valorant",
+      "name": "无畏契约",
+      "nameEn": "Valorant",
+      "status": "active",
+      "category": "tactical-shooter",
+      "source": "https://playvalorant.com/en-us/news/game-updates/",
+      "sourceType": "web",
+      "lastCheck": null,
+      "currentSeason": null
+    },
+    {
+      "id": "apex",
+      "name": "Apex Legends",
+      "nameEn": "Apex Legends",
+      "status": "active",
+      "category": "br",
+      "source": "https://store.steampowered.com/news/app=1172470",
+      "sourceType": "steam",
+      "lastCheck": null,
+      "currentSeason": null
+    },
+    {
+      "id": "cs2",
+      "name": "CS2",
+      "nameEn": "Counter-Strike 2",
+      "status": "active",
+      "category": "tactical-shooter",
+      "source": "https://store.steampowered.com/news/app=730",
+      "sourceType": "steam",
+      "lastCheck": null,
+      "currentSeason": null
+    },
+    {
+      "id": "pubg",
+      "name": "PUBG",
+      "nameEn": "PUBG: BATTLEGROUNDS",
+      "status": "active",
+      "category": "br",
+      "source": "https://store.steampowered.com/news/app=578080",
+      "sourceType": "steam",
+      "lastCheck": null,
+      "currentSeason": null
+    },
+    {
+      "id": "tarkov",
+      "name": "逃离塔科夫",
+      "nameEn": "Escape from Tarkov",
+      "status": "active",
+      "category": "extraction",
+      "source": "https://store.steampowered.com/news/app=2866900",
+      "sourceType": "steam",
+      "lastCheck": null,
+      "currentSeason": null
+    },
+    {
+      "id": "arena-breakout",
+      "name": "暗区突围",
+      "nameEn": "Arena Breakout Infinite",
+      "status": "active",
+      "category": "extraction",
+      "source": "https://store.steampowered.com/news/app=2866900",
+      "sourceType": "steam",
+      "lastCheck": null,
+      "currentSeason": null
+    },
+    {
+      "id": "delta-force",
+      "name": "三角洲行动",
+      "nameEn": "Delta Force",
+      "status": "active",
+      "category": "extraction",
+      "source": "https://store.steampowered.com/news/app=2323230",
+      "sourceType": "steam",
+      "lastCheck": null,
+      "currentSeason": null
+    }
+  ]
+}
