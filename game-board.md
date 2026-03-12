@@ -1,20 +1,20 @@
 # 🎮 游戏动态看板
 
-> 最后更新：2026-03-11
+> 最后更新：2026-03-12
 
 ## 监控列表
 
 | 游戏 | 类型 | 状态 | 最后检查 | 当前版本/赛季 |
 |------|------|------|----------|---------------|
-| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-11 | **Season 1** |
-| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-11 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-11 | **Season 2026, Patch 12.04** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-11 | **Apex Legends: Latest Update 3/10/2026** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-11 | **New lawsuit wants Valve to repay "billions" earned** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-11 | **PUBG 9th Anniversary Events** |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Arena Breakout: Infinite Bans Notice - March 11th** |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-11 | **Mid-Season Update** |
+| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-12 | **Season 1** |
+| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-12 | **Y11S1 Operation Silent Hunt** |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-12 | **Season 2026, Patch 12.04** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-12 | **Apex Legends: Latest Update 3/11/2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-12 | **Counter-Strike 2 Update** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-12 | **PUBG is turning 9 — and the party is just getting ** |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-12 | **Patch 1.0.2.5** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-12 | **Arena Breakout: Infinite Bans Notice - March 11th** |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-12 | **Mid-Season Update** |
 
 ---
 
@@ -43,22 +43,22 @@
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **Apex Legends: Latest Update 3/10/2026** (2026-03-11)
-- Apex Legends: Latest Update 3/10/2026
+- **Apex Legends: Latest Update 3/11/2026** (2026-03-12)
+- Apex Legends: Latest Update 3/11/2026
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **New lawsuit wants Valve to repay "billions" earned** (2026-03-11)
-- New lawsuit wants Valve to repay "billio
+- **Counter-Strike 2 Update** (2026-03-12)
+- Counter-Strike 2 Update
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **PUBG 9th Anniversary Events** (2026-03-11)
-- PUBG 9th Anniversary Events
+- **PUBG is turning 9 — and the party is just getting ** (2026-03-12)
+- PUBG is turning 9 — and the party is jus
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
@@ -71,7 +71,7 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Arena Breakout: Infinite Bans Notice - March 11th** (2026-03-11)
+- **Arena Breakout: Infinite Bans Notice - March 11th** (2026-03-12)
 - Arena Breakout: Infinite Bans Notice - M
 - Steam 更新
 
