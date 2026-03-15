@@ -1,20 +1,20 @@
 # 🎮 游戏动态看板
 
-> 最后更新：2026-03-14
+> 最后更新：2026-03-15
 
 ## 监控列表
 
 | 游戏 | 类型 | 状态 | 最后检查 | 当前版本/赛季 |
 |------|------|------|----------|---------------|
-| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-14 | **Season 1** |
-| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-14 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-14 | **Season 2026, Patch 12.04** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-14 | **Apex Legends: Latest Update 3/11/2026** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-14 | **Counter-Strike 2 Update** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-14 | **PUBG is turning 9 — and the party is just getting ** |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-14 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-14 | **Arena Breakout: Infinite Bans Notice - March 11th** |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-14 | **Mid-Season Update** |
+| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-15 | **Season 1** |
+| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-15 | **Y11S1 Operation Silent Hunt** |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-15 | **Season 2026, Patch 12.04** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-15 | **Apex Legends: Latest Update 3/11/2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-15 | **Counter-Strike 2 Update** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-15 | **Anniversary Mission: First Party Impressions** |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-15 | **Patch 1.0.2.5** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-15 | **Arena Breakout: Infinite Bans Notice - March 11th** |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-15 | **Mid-Season Update** |
 
 ---
 
@@ -43,22 +43,22 @@
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **Apex Legends: Latest Update 3/11/2026** (2026-03-14)
+- **Apex Legends: Latest Update 3/11/2026** (2026-03-15)
 - Apex Legends: Latest Update 3/11/2026
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Counter-Strike 2 Update** (2026-03-14)
+- **Counter-Strike 2 Update** (2026-03-15)
 - Counter-Strike 2 Update
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **PUBG is turning 9 — and the party is just getting ** (2026-03-14)
-- PUBG is turning 9 — and the party is jus
+- **Anniversary Mission: First Party Impressions** (2026-03-15)
+- Anniversary Mission: First Party Impress
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
@@ -71,7 +71,7 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Arena Breakout: Infinite Bans Notice - March 11th** (2026-03-14)
+- **Arena Breakout: Infinite Bans Notice - March 11th** (2026-03-15)
 - Arena Breakout: Infinite Bans Notice - M
 - Steam 更新
 
