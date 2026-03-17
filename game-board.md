@@ -1,20 +1,20 @@
 # 🎮 游戏动态看板
 
-> 最后更新：2026-03-16
+> 最后更新：2026-03-17
 
 ## 监控列表
 
 | 游戏 | 类型 | 状态 | 最后检查 | 当前版本/赛季 |
 |------|------|------|----------|---------------|
-| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-16 | **Season 1** |
-| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-16 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-16 | **Season 2026, Patch 12.04** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-16 | **Apex Legends: Latest Update 3/11/2026** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-16 | **Counter-Strike 2 Update** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-16 | **Introducing Player of the Day — Your Vote, Their S** |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-16 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-16 | **Arena Breakout: Infinite Bans Notice - March 11th** |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-16 | **Mid-Season Update** |
+| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-17 | **Season 1** |
+| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-17 | **Y11S1 Operation Silent Hunt** |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-17 | **Season 2026, Patch 12.04** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-17 | **Apex Legends: Latest Update 3/11/2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-17 | **Counter-Strike 2 Update** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-17 | **Introducing Player of the Day — Your Vote, Their S** |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-17 | **Patch 1.0.2.5** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-17 | **Arena Breakout: Infinite Bans Notice - March 11th** |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-17 | **Mid-Season Update** |
 
 ---
 
@@ -43,21 +43,21 @@
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **Apex Legends: Latest Update 3/11/2026** (2026-03-16)
+- **Apex Legends: Latest Update 3/11/2026** (2026-03-17)
 - Apex Legends: Latest Update 3/11/2026
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Counter-Strike 2 Update** (2026-03-16)
+- **Counter-Strike 2 Update** (2026-03-17)
 - Counter-Strike 2 Update
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **Introducing Player of the Day — Your Vote, Their S** (2026-03-16)
+- **Introducing Player of the Day — Your Vote, Their S** (2026-03-17)
 - Introducing Player of the Day — Your Vot
 - Steam 更新
 
@@ -71,7 +71,7 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Arena Breakout: Infinite Bans Notice - March 11th** (2026-03-16)
+- **Arena Breakout: Infinite Bans Notice - March 11th** (2026-03-17)
 - Arena Breakout: Infinite Bans Notice - M
 - Steam 更新
 
