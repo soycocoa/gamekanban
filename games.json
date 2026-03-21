@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-20T19:30:11",
+  "lastUpdate": "2026-03-21T19:30:11",
   "games": [
     {
       "id": "overwatch",
@@ -9,7 +9,7 @@
       "category": "hero-shooter",
       "source": "https://overwatch.blizzard.com/news/patch-notes/",
       "sourceType": "web",
-      "lastCheck": "2026-03-20",
+      "lastCheck": "2026-03-21",
       "currentSeason": {
         "name": "Season 1",
         "startDate": "2026-02-10",
@@ -28,7 +28,7 @@
       "category": "tactical-shooter",
       "source": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/seasons",
       "sourceType": "web",
-      "lastCheck": "2026-03-20",
+      "lastCheck": "2026-03-21",
       "currentSeason": {
         "name": "Y11S1 Operation Silent Hunt",
         "startDate": "2026-03-04",
@@ -46,7 +46,7 @@
       "category": "tactical-shooter",
       "source": "https://playvalorant.com/en-us/news/game-updates/",
       "sourceType": "web",
-      "lastCheck": "2026-03-20",
+      "lastCheck": "2026-03-21",
       "currentSeason": {
         "name": "Season 2026, Patch 12.05",
         "startDate": "2026-01-06",
@@ -64,10 +64,10 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=1172470",
       "sourceType": "steam",
-      "lastCheck": "2026-03-20",
+      "lastCheck": "2026-03-21",
       "currentSeason": {
         "name": "An Update from the Anti Cheat Team 03/19/2026",
-        "startDate": "2026-03-20",
+        "startDate": "2026-03-21",
         "highlights": [
           "An Update from the Anti Cheat Team 03/19",
           "Steam 更新"
@@ -82,10 +82,10 @@
       "category": "tactical-shooter",
       "source": "https://store.steampowered.com/news/app=730",
       "sourceType": "steam",
-      "lastCheck": "2026-03-20",
+      "lastCheck": "2026-03-21",
       "currentSeason": {
         "name": "Counter-Strike 2 gets a major update with reload c",
-        "startDate": "2026-03-20",
+        "startDate": "2026-03-21",
         "highlights": [
           "Counter-Strike 2 gets a major update wit",
           "Steam 更新"
@@ -100,12 +100,12 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=578080",
       "sourceType": "steam",
-      "lastCheck": "2026-03-20",
+      "lastCheck": "2026-03-21",
       "currentSeason": {
-        "name": "PUBG Global Series 1 - Day 3 (Survival Stage)",
-        "startDate": "2026-03-20",
+        "name": "PUBG Global Series 1 - Day 4 (Finals Stage)",
+        "startDate": "2026-03-21",
         "highlights": [
-          "PUBG Global Series 1 - Day 3 (Survival S",
+          "PUBG Global Series 1 - Day 4 (Finals Sta",
           "Steam 更新"
         ]
       }
@@ -118,7 +118,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2866900",
       "sourceType": "steam",
-      "lastCheck": "2026-03-20",
+      "lastCheck": "2026-03-21",
       "currentSeason": {
         "name": "Patch 1.0.2.5",
         "startDate": "2026-03-01",
@@ -136,12 +136,12 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2073620",
       "sourceType": "steam",
-      "lastCheck": "2026-03-20",
+      "lastCheck": "2026-03-21",
       "currentSeason": {
-        "name": "Arena Breakout: Infinite Bans Notice - March 11th",
-        "startDate": "2026-03-20",
+        "name": "ARENA BREAKOUT: INFINITE ANNOUNCES SEASON 5: DISTO",
+        "startDate": "2026-03-21",
         "highlights": [
-          "Arena Breakout: Infinite Bans Notice - M",
+          "ARENA BREAKOUT: INFINITE ANNOUNCES SEASO",
           "Steam 更新"
         ]
       }
@@ -154,7 +154,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2323230",
       "sourceType": "steam",
-      "lastCheck": "2026-03-20",
+      "lastCheck": "2026-03-21",
       "currentSeason": {
         "name": "Mid-Season Update",
         "startDate": "2026-03-01",
