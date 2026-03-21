@@ -1,20 +1,20 @@
 # 🎮 游戏动态看板
 
-> 最后更新：2026-03-20
+> 最后更新：2026-03-21
 
 ## 监控列表
 
 | 游戏 | 类型 | 状态 | 最后检查 | 当前版本/赛季 |
 |------|------|------|----------|---------------|
-| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-20 | **Season 1** |
-| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-20 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-20 | **Season 2026, Patch 12.05** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-20 | **An Update from the Anti Cheat Team 03/19/2026** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-20 | **Counter-Strike 2 gets a major update with reload c** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-20 | **PUBG Global Series 1 - Day 3 (Survival Stage)** |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-20 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-20 | **Arena Breakout: Infinite Bans Notice - March 11th** |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-20 | **Mid-Season Update** |
+| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-21 | **Season 1** |
+| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-21 | **Y11S1 Operation Silent Hunt** |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-21 | **Season 2026, Patch 12.05** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-21 | **An Update from the Anti Cheat Team 03/19/2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-21 | **Counter-Strike 2 gets a major update with reload c** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-21 | **PUBG Global Series 1 - Day 4 (Finals Stage)** |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-21 | **Patch 1.0.2.5** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-21 | **ARENA BREAKOUT: INFINITE ANNOUNCES SEASON 5: DISTO** |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-21 | **Mid-Season Update** |
 
 ---
 
@@ -43,22 +43,22 @@
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **An Update from the Anti Cheat Team 03/19/2026** (2026-03-20)
+- **An Update from the Anti Cheat Team 03/19/2026** (2026-03-21)
 - An Update from the Anti Cheat Team 03/19
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Counter-Strike 2 gets a major update with reload c** (2026-03-20)
+- **Counter-Strike 2 gets a major update with reload c** (2026-03-21)
 - Counter-Strike 2 gets a major update wit
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **PUBG Global Series 1 - Day 3 (Survival Stage)** (2026-03-20)
-- PUBG Global Series 1 - Day 3 (Survival S
+- **PUBG Global Series 1 - Day 4 (Finals Stage)** (2026-03-21)
+- PUBG Global Series 1 - Day 4 (Finals Sta
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
@@ -71,8 +71,8 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Arena Breakout: Infinite Bans Notice - March 11th** (2026-03-20)
-- Arena Breakout: Infinite Bans Notice - M
+- **ARENA BREAKOUT: INFINITE ANNOUNCES SEASON 5: DISTO** (2026-03-21)
+- ARENA BREAKOUT: INFINITE ANNOUNCES SEASO
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=2073620)
