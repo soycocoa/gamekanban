@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-24T19:30:13",
+  "lastUpdate": "2026-03-25T19:30:11",
   "games": [
     {
       "id": "overwatch",
@@ -9,7 +9,7 @@
       "category": "hero-shooter",
       "source": "https://overwatch.blizzard.com/news/patch-notes/",
       "sourceType": "web",
-      "lastCheck": "2026-03-24",
+      "lastCheck": "2026-03-25",
       "currentSeason": {
         "name": "Season 1",
         "startDate": "2026-02-10",
@@ -28,7 +28,7 @@
       "category": "tactical-shooter",
       "source": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/seasons",
       "sourceType": "web",
-      "lastCheck": "2026-03-24",
+      "lastCheck": "2026-03-25",
       "currentSeason": {
         "name": "Y11S1 Operation Silent Hunt",
         "startDate": "2026-03-04",
@@ -46,7 +46,7 @@
       "category": "tactical-shooter",
       "source": "https://playvalorant.com/en-us/news/game-updates/",
       "sourceType": "web",
-      "lastCheck": "2026-03-24",
+      "lastCheck": "2026-03-25",
       "currentSeason": {
         "name": "Season 2026, Patch 12.05",
         "startDate": "2026-01-06",
@@ -64,12 +64,12 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=1172470",
       "sourceType": "steam",
-      "lastCheck": "2026-03-24",
+      "lastCheck": "2026-03-25",
       "currentSeason": {
-        "name": "Breach Midseason Designer’s Notes",
-        "startDate": "2026-03-24",
+        "name": "Apex Legends: Latest Update 3/24/2026",
+        "startDate": "2026-03-25",
         "highlights": [
-          "Breach Midseason Designer’s Notes",
+          "Apex Legends: Latest Update 3/24/2026",
           "Steam 更新"
         ]
       }
@@ -82,10 +82,10 @@
       "category": "tactical-shooter",
       "source": "https://store.steampowered.com/news/app=730",
       "sourceType": "steam",
-      "lastCheck": "2026-03-24",
+      "lastCheck": "2026-03-25",
       "currentSeason": {
         "name": "Valve say Counter-Strike 2's reloading needed \"hig",
-        "startDate": "2026-03-24",
+        "startDate": "2026-03-25",
         "highlights": [
           "Valve say Counter-Strike 2's reloading n",
           "Steam 更新"
@@ -100,12 +100,12 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=578080",
       "sourceType": "steam",
-      "lastCheck": "2026-03-24",
+      "lastCheck": "2026-03-25",
       "currentSeason": {
-        "name": "Anniversary Mission: Rondo Party Run",
-        "startDate": "2026-03-24",
+        "name": "PGS 2 - Continues on March 26!",
+        "startDate": "2026-03-25",
         "highlights": [
-          "Anniversary Mission: Rondo Party Run",
+          "PGS 2 - Continues on March 26!",
           "Steam 更新"
         ]
       }
@@ -118,7 +118,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2866900",
       "sourceType": "steam",
-      "lastCheck": "2026-03-24",
+      "lastCheck": "2026-03-25",
       "currentSeason": {
         "name": "Patch 1.0.2.5",
         "startDate": "2026-03-01",
@@ -136,12 +136,12 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2073620",
       "sourceType": "steam",
-      "lastCheck": "2026-03-24",
+      "lastCheck": "2026-03-25",
       "currentSeason": {
-        "name": "ARENA BREAKOUT: INFINITE ANNOUNCES SEASON 5: DISTO",
-        "startDate": "2026-03-24",
+        "name": "Arena Breakout: Infinite Bans Notice - March 25th",
+        "startDate": "2026-03-25",
         "highlights": [
-          "ARENA BREAKOUT: INFINITE ANNOUNCES SEASO",
+          "Arena Breakout: Infinite Bans Notice - M",
           "Steam 更新"
         ]
       }
@@ -154,7 +154,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2323230",
       "sourceType": "steam",
-      "lastCheck": "2026-03-24",
+      "lastCheck": "2026-03-25",
       "currentSeason": {
         "name": "Mid-Season Update",
         "startDate": "2026-03-01",
