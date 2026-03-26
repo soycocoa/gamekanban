@@ -1,20 +1,20 @@
 # 🎮 游戏动态看板
 
-> 最后更新：2026-03-25
+> 最后更新：2026-03-26
 
 ## 监控列表
 
 | 游戏 | 类型 | 状态 | 最后检查 | 当前版本/赛季 |
 |------|------|------|----------|---------------|
-| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-25 | **Season 1** |
-| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-25 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-25 | **Season 2026, Patch 12.05** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-25 | **Apex Legends: Latest Update 3/24/2026** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-25 | **Valve say Counter-Strike 2's reloading needed "hig** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-25 | **PGS 2 - Continues on March 26!** |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-25 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-25 | **Arena Breakout: Infinite Bans Notice - March 25th** |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-25 | **Mid-Season Update** |
+| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-26 | **Season 1** |
+| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-26 | **Y11S1 Operation Silent Hunt** |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-26 | **Season 2026, Patch 12.05** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-26 | **Apex Legends: Latest Update 3/24/2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-26 | **Valve say Counter-Strike 2's reloading needed "hig** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-26 | **PGS 2: Day 1 (Winners Stage)** |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-26 | **Patch 1.0.2.5** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-26 | **Arena Breakout: Infinite Bans Notice - March 25th** |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-26 | **Mid-Season Update** |
 
 ---
 
@@ -43,22 +43,22 @@
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **Apex Legends: Latest Update 3/24/2026** (2026-03-25)
+- **Apex Legends: Latest Update 3/24/2026** (2026-03-26)
 - Apex Legends: Latest Update 3/24/2026
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Valve say Counter-Strike 2's reloading needed "hig** (2026-03-25)
+- **Valve say Counter-Strike 2's reloading needed "hig** (2026-03-26)
 - Valve say Counter-Strike 2's reloading n
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **PGS 2 - Continues on March 26!** (2026-03-25)
-- PGS 2 - Continues on March 26!
+- **PGS 2: Day 1 (Winners Stage)** (2026-03-26)
+- PGS 2: Day 1 (Winners Stage)
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
@@ -71,7 +71,7 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Arena Breakout: Infinite Bans Notice - March 25th** (2026-03-25)
+- **Arena Breakout: Infinite Bans Notice - March 25th** (2026-03-26)
 - Arena Breakout: Infinite Bans Notice - M
 - Steam 更新
 
