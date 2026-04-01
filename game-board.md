@@ -1,20 +1,20 @@
 # 🎮 游戏动态看板
 
-> 最后更新：2026-03-31
+> 最后更新：2026-04-01
 
 ## 监控列表
 
 | 游戏 | 类型 | 状态 | 最后检查 | 当前版本/赛季 |
 |------|------|------|----------|---------------|
-| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-03-31 | **Season 1** |
-| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-03-31 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-03-31 | **Season 2026, Patch 12.05** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-03-31 | **Apex Legends: Latest Update 3/26/26** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-03-31 | **Counter-Strike 2 gets a major update with reload c** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-03-31 | **PGS 2: Final Stage, Day 2** |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-03-31 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-03-31 | **Arena Breakout: Infinite Bans Notice - March 25th** |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-03-31 | **Mid-Season Update** |
+| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-04-01 | **Season 1** |
+| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-04-01 | **Y11S1 Operation Silent Hunt** |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-04-01 | **Season 2026, Patch 12.06** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-04-01 | **"0.63 is the perfect default delay": Bungie, Respa** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-04-01 | **Counter-Strike 2 gets a major update with reload c** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-04-01 | **PGS 3: Circuit Finals — The Champion Is Crowned Ap** |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-04-01 | **Patch 1.0.2.5** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-04-01 | **Arena Breakout: Infinite Bans Notice - March 25th** |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-04-01 | **Mid-Season Update** |
 
 ---
 
@@ -36,29 +36,29 @@
 [查看官网更新 →](https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/seasons)
 
 ### 无畏契约
-- **Season 2026, Patch 12.05** (2026-01-06)
-- Patch 12.05 更新
+- **Season 2026, Patch 12.06** (2026-01-06)
+- Patch 12.06 更新
 - Alpha vs Omega 活动
 
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **Apex Legends: Latest Update 3/26/26** (2026-03-31)
-- Apex Legends: Latest Update 3/26/26
+- **"0.63 is the perfect default delay": Bungie, Respa** (2026-04-01)
+- "0.63 is the perfect default delay": Bun
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Counter-Strike 2 gets a major update with reload c** (2026-03-31)
+- **Counter-Strike 2 gets a major update with reload c** (2026-04-01)
 - Counter-Strike 2 gets a major update wit
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **PGS 2: Final Stage, Day 2** (2026-03-31)
-- PGS 2: Final Stage, Day 2
+- **PGS 3: Circuit Finals — The Champion Is Crowned Ap** (2026-04-01)
+- PGS 3: Circuit Finals — The Champion Is 
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
@@ -71,7 +71,7 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Arena Breakout: Infinite Bans Notice - March 25th** (2026-03-31)
+- **Arena Breakout: Infinite Bans Notice - March 25th** (2026-04-01)
 - Arena Breakout: Infinite Bans Notice - M
 - Steam 更新
 
