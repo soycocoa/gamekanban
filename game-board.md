@@ -1,20 +1,20 @@
 # 🎮 游戏动态看板
 
-> 最后更新：2026-04-01
+> 最后更新：2026-04-02
 
 ## 监控列表
 
 | 游戏 | 类型 | 状态 | 最后检查 | 当前版本/赛季 |
 |------|------|------|----------|---------------|
-| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-04-01 | **Season 1** |
-| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-04-01 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-04-01 | **Season 2026, Patch 12.06** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-04-01 | **"0.63 is the perfect default delay": Bungie, Respa** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-04-01 | **Counter-Strike 2 gets a major update with reload c** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-04-01 | **PGS 3: Circuit Finals — The Champion Is Crowned Ap** |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-04-01 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-04-01 | **Arena Breakout: Infinite Bans Notice - March 25th** |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-04-01 | **Mid-Season Update** |
+| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-04-02 | **Season 1** |
+| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-04-02 | **Y11S1 Operation Silent Hunt** |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-04-02 | **Season 2026, Patch 12.06** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-04-02 | **Apex Legends: Latest Update - 04/01/2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-04-02 | **Animgraph 2 Beta** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-04-02 | **PUBG Global Series 3: Survival Stage** |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-04-02 | **Patch 1.0.2.5** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-04-02 | **Season 5: Distortion is here!** |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-04-02 | **Mid-Season Update** |
 
 ---
 
@@ -43,22 +43,22 @@
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **"0.63 is the perfect default delay": Bungie, Respa** (2026-04-01)
-- "0.63 is the perfect default delay": Bun
+- **Apex Legends: Latest Update - 04/01/2026** (2026-04-02)
+- Apex Legends: Latest Update - 04/01/2026
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Counter-Strike 2 gets a major update with reload c** (2026-04-01)
-- Counter-Strike 2 gets a major update wit
+- **Animgraph 2 Beta** (2026-04-02)
+- Animgraph 2 Beta
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **PGS 3: Circuit Finals — The Champion Is Crowned Ap** (2026-04-01)
-- PGS 3: Circuit Finals — The Champion Is 
+- **PUBG Global Series 3: Survival Stage** (2026-04-02)
+- PUBG Global Series 3: Survival Stage
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
@@ -71,8 +71,8 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Arena Breakout: Infinite Bans Notice - March 25th** (2026-04-01)
-- Arena Breakout: Infinite Bans Notice - M
+- **Season 5: Distortion is here!** (2026-04-02)
+- Season 5: Distortion is here!
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=2073620)
