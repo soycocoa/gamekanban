@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-01T19:30:12",
+  "lastUpdate": "2026-04-02T19:30:10",
   "games": [
     {
       "id": "overwatch",
@@ -9,7 +9,7 @@
       "category": "hero-shooter",
       "source": "https://overwatch.blizzard.com/news/patch-notes/",
       "sourceType": "web",
-      "lastCheck": "2026-04-01",
+      "lastCheck": "2026-04-02",
       "currentSeason": {
         "name": "Season 1",
         "startDate": "2026-02-10",
@@ -28,7 +28,7 @@
       "category": "tactical-shooter",
       "source": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/seasons",
       "sourceType": "web",
-      "lastCheck": "2026-04-01",
+      "lastCheck": "2026-04-02",
       "currentSeason": {
         "name": "Y11S1 Operation Silent Hunt",
         "startDate": "2026-03-04",
@@ -46,7 +46,7 @@
       "category": "tactical-shooter",
       "source": "https://playvalorant.com/en-us/news/game-updates/",
       "sourceType": "web",
-      "lastCheck": "2026-04-01",
+      "lastCheck": "2026-04-02",
       "currentSeason": {
         "name": "Season 2026, Patch 12.06",
         "startDate": "2026-01-06",
@@ -64,12 +64,12 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=1172470",
       "sourceType": "steam",
-      "lastCheck": "2026-04-01",
+      "lastCheck": "2026-04-02",
       "currentSeason": {
-        "name": "\"0.63 is the perfect default delay\": Bungie, Respa",
-        "startDate": "2026-04-01",
+        "name": "Apex Legends: Latest Update - 04/01/2026",
+        "startDate": "2026-04-02",
         "highlights": [
-          "\"0.63 is the perfect default delay\": Bun",
+          "Apex Legends: Latest Update - 04/01/2026",
           "Steam 更新"
         ]
       }
@@ -82,12 +82,12 @@
       "category": "tactical-shooter",
       "source": "https://store.steampowered.com/news/app=730",
       "sourceType": "steam",
-      "lastCheck": "2026-04-01",
+      "lastCheck": "2026-04-02",
       "currentSeason": {
-        "name": "Counter-Strike 2 gets a major update with reload c",
-        "startDate": "2026-04-01",
+        "name": "Animgraph 2 Beta",
+        "startDate": "2026-04-02",
         "highlights": [
-          "Counter-Strike 2 gets a major update wit",
+          "Animgraph 2 Beta",
           "Steam 更新"
         ]
       }
@@ -100,12 +100,12 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=578080",
       "sourceType": "steam",
-      "lastCheck": "2026-04-01",
+      "lastCheck": "2026-04-02",
       "currentSeason": {
-        "name": "PGS 3: Circuit Finals — The Champion Is Crowned Ap",
-        "startDate": "2026-04-01",
+        "name": "PUBG Global Series 3: Survival Stage",
+        "startDate": "2026-04-02",
         "highlights": [
-          "PGS 3: Circuit Finals — The Champion Is ",
+          "PUBG Global Series 3: Survival Stage",
           "Steam 更新"
         ]
       }
@@ -118,7 +118,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2866900",
       "sourceType": "steam",
-      "lastCheck": "2026-04-01",
+      "lastCheck": "2026-04-02",
       "currentSeason": {
         "name": "Patch 1.0.2.5",
         "startDate": "2026-03-01",
@@ -136,12 +136,12 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2073620",
       "sourceType": "steam",
-      "lastCheck": "2026-04-01",
+      "lastCheck": "2026-04-02",
       "currentSeason": {
-        "name": "Arena Breakout: Infinite Bans Notice - March 25th",
-        "startDate": "2026-04-01",
+        "name": "Season 5: Distortion is here!",
+        "startDate": "2026-04-02",
         "highlights": [
-          "Arena Breakout: Infinite Bans Notice - M",
+          "Season 5: Distortion is here!",
           "Steam 更新"
         ]
       }
@@ -154,7 +154,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2323230",
       "sourceType": "steam",
-      "lastCheck": "2026-04-01",
+      "lastCheck": "2026-04-02",
       "currentSeason": {
         "name": "Mid-Season Update",
         "startDate": "2026-03-01",
