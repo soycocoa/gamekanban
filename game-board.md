@@ -1,20 +1,20 @@
 # 🎮 游戏动态看板
 
-> 最后更新：2026-04-02
+> 最后更新：2026-04-03
 
 ## 监控列表
 
 | 游戏 | 类型 | 状态 | 最后检查 | 当前版本/赛季 |
 |------|------|------|----------|---------------|
-| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-04-02 | **Season 1** |
-| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-04-02 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-04-02 | **Season 2026, Patch 12.06** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-04-02 | **Apex Legends: Latest Update - 04/01/2026** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-04-02 | **Animgraph 2 Beta** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-04-02 | **PUBG Global Series 3: Survival Stage** |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-04-02 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-04-02 | **Season 5: Distortion is here!** |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-04-02 | **Mid-Season Update** |
+| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-04-03 | **Season 1** |
+| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-04-03 | **Y11S1 Operation Silent Hunt** |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-04-03 | **Season 2026, Patch 12.06** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-04-03 | **An Update from the Anti-Cheat Team - 04/02/2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-04-03 | **Counter-Strike 2 gets a Beta with a fancy new anim** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-04-03 | **PUBG Global Series 3: Final Stage (Day 1)** |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-04-03 | **Patch 1.0.2.5** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-04-03 | **Season 5: Distortion is here!** |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-04-03 | **Mid-Season Update** |
 
 ---
 
@@ -43,22 +43,22 @@
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **Apex Legends: Latest Update - 04/01/2026** (2026-04-02)
-- Apex Legends: Latest Update - 04/01/2026
+- **An Update from the Anti-Cheat Team - 04/02/2026** (2026-04-03)
+- An Update from the Anti-Cheat Team - 04/
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Animgraph 2 Beta** (2026-04-02)
-- Animgraph 2 Beta
+- **Counter-Strike 2 gets a Beta with a fancy new anim** (2026-04-03)
+- Counter-Strike 2 gets a Beta with a fanc
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **PUBG Global Series 3: Survival Stage** (2026-04-02)
-- PUBG Global Series 3: Survival Stage
+- **PUBG Global Series 3: Final Stage (Day 1)** (2026-04-03)
+- PUBG Global Series 3: Final Stage (Day 1
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
@@ -71,7 +71,7 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Season 5: Distortion is here!** (2026-04-02)
+- **Season 5: Distortion is here!** (2026-04-03)
 - Season 5: Distortion is here!
 - Steam 更新
 
