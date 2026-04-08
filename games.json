@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-07T19:30:10",
+  "lastUpdate": "2026-04-08T19:30:16",
   "games": [
     {
       "id": "overwatch",
@@ -9,7 +9,7 @@
       "category": "hero-shooter",
       "source": "https://overwatch.blizzard.com/news/patch-notes/",
       "sourceType": "web",
-      "lastCheck": "2026-04-07",
+      "lastCheck": "2026-04-08",
       "currentSeason": {
         "name": "Season 1",
         "startDate": "2026-02-10",
@@ -28,7 +28,7 @@
       "category": "tactical-shooter",
       "source": "https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/seasons",
       "sourceType": "web",
-      "lastCheck": "2026-04-07",
+      "lastCheck": "2026-04-08",
       "currentSeason": {
         "name": "Y11S1 Operation Silent Hunt",
         "startDate": "2026-03-04",
@@ -46,7 +46,7 @@
       "category": "tactical-shooter",
       "source": "https://playvalorant.com/en-us/news/game-updates/",
       "sourceType": "web",
-      "lastCheck": "2026-04-07",
+      "lastCheck": "2026-04-08",
       "currentSeason": {
         "name": "Season 2026, Patch 12.06",
         "startDate": "2026-01-06",
@@ -64,12 +64,12 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=1172470",
       "sourceType": "steam",
-      "lastCheck": "2026-04-07",
+      "lastCheck": "2026-04-08",
       "currentSeason": {
-        "name": "Apex Legends™ EA Play* Weapon Charm",
-        "startDate": "2026-04-07",
+        "name": "Recent Server Issues",
+        "startDate": "2026-04-08",
         "highlights": [
-          "Apex Legends™ EA Play* Weapon Charm",
+          "Recent Server Issues",
           "Steam 更新"
         ]
       }
@@ -82,10 +82,10 @@
       "category": "tactical-shooter",
       "source": "https://store.steampowered.com/news/app=730",
       "sourceType": "steam",
-      "lastCheck": "2026-04-07",
+      "lastCheck": "2026-04-08",
       "currentSeason": {
         "name": "Counter-Strike 2 gets a Beta with a fancy new anim",
-        "startDate": "2026-04-07",
+        "startDate": "2026-04-08",
         "highlights": [
           "Counter-Strike 2 gets a Beta with a fanc",
           "Steam 更新"
@@ -100,12 +100,12 @@
       "category": "br",
       "source": "https://store.steampowered.com/news/app=578080",
       "sourceType": "steam",
-      "lastCheck": "2026-04-07",
+      "lastCheck": "2026-04-08",
       "currentSeason": {
-        "name": "April Store Update 2026",
-        "startDate": "2026-04-07",
+        "name": "PUBG x Stellar Blade",
+        "startDate": "2026-04-08",
         "highlights": [
-          "April Store Update 2026",
+          "PUBG x Stellar Blade",
           "Steam 更新"
         ]
       }
@@ -118,7 +118,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2866900",
       "sourceType": "steam",
-      "lastCheck": "2026-04-07",
+      "lastCheck": "2026-04-08",
       "currentSeason": {
         "name": "Patch 1.0.2.5",
         "startDate": "2026-03-01",
@@ -136,12 +136,12 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2073620",
       "sourceType": "steam",
-      "lastCheck": "2026-04-07",
+      "lastCheck": "2026-04-08",
       "currentSeason": {
-        "name": "Season 5: Distortion is here!",
-        "startDate": "2026-04-07",
+        "name": "Season 4 Security Report",
+        "startDate": "2026-04-08",
         "highlights": [
-          "Season 5: Distortion is here!",
+          "Season 4 Security Report",
           "Steam 更新"
         ]
       }
@@ -154,7 +154,7 @@
       "category": "extraction",
       "source": "https://store.steampowered.com/news/app=2323230",
       "sourceType": "steam",
-      "lastCheck": "2026-04-07",
+      "lastCheck": "2026-04-08",
       "currentSeason": {
         "name": "Mid-Season Update",
         "startDate": "2026-03-01",
