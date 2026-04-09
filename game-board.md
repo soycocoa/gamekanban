@@ -1,20 +1,20 @@
 # 🎮 游戏动态看板
 
-> 最后更新：2026-04-08
+> 最后更新：2026-04-09
 
 ## 监控列表
 
 | 游戏 | 类型 | 状态 | 最后检查 | 当前版本/赛季 |
 |------|------|------|----------|---------------|
-| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-04-08 | **Season 1** |
-| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-04-08 | **Y11S1 Operation Silent Hunt** |
-| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-04-08 | **Season 2026, Patch 12.06** |
-| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-04-08 | **Recent Server Issues** |
-| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-04-08 | **Counter-Strike 2 gets a Beta with a fancy new anim** |
-| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-04-08 | **PUBG x Stellar Blade** |
-| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-04-08 | **Patch 1.0.2.5** |
-| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-04-08 | **Season 4 Security Report** |
-| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-04-08 | **Mid-Season Update** |
+| 🦸 守望先锋 | 英雄射击 | 🟢 正常 | 2026-04-09 | **Season 1** |
+| 🎯 彩虹六号 | 战术射击 | 🟢 正常 | 2026-04-09 | **Y11S1 Operation Silent Hunt** |
+| 🎯 无畏契约 | 战术射击 | 🟢 正常 | 2026-04-09 | **Season 2026, Patch 12.06** |
+| 🪂 Apex Legends | 大逃杀 | 🟢 正常 | 2026-04-09 | **Apex Legends: Latest Update 4/8/2026** |
+| 🎯 CS2 | 战术射击 | 🟢 正常 | 2026-04-09 | **Counter-Strike 2 gets a Beta with a fancy new anim** |
+| 🪂 PUBG | 大逃杀 | 🟢 正常 | 2026-04-09 | **PGS 3: Virtus.pro Caps Off the First Circuit** |
+| 💼 逃离塔科夫 | 搜打撤 | 🟢 正常 | 2026-04-09 | **Patch 1.0.2.5** |
+| 💼 暗区突围 | 搜打撤 | 🟢 正常 | 2026-04-09 | **Protectors of Peace—Thank You to Every Inspector K** |
+| 💼 三角洲行动 | 搜打撤 | 🟢 正常 | 2026-04-09 | **Mid-Season Update** |
 
 ---
 
@@ -43,22 +43,22 @@
 [查看官网更新 →](https://playvalorant.com/en-us/news/game-updates/)
 
 ### Apex Legends
-- **Recent Server Issues** (2026-04-08)
-- Recent Server Issues
+- **Apex Legends: Latest Update 4/8/2026** (2026-04-09)
+- Apex Legends: Latest Update 4/8/2026
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=1172470)
 
 ### CS2
-- **Counter-Strike 2 gets a Beta with a fancy new anim** (2026-04-08)
+- **Counter-Strike 2 gets a Beta with a fancy new anim** (2026-04-09)
 - Counter-Strike 2 gets a Beta with a fanc
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=730)
 
 ### PUBG
-- **PUBG x Stellar Blade** (2026-04-08)
-- PUBG x Stellar Blade
+- **PGS 3: Virtus.pro Caps Off the First Circuit** (2026-04-09)
+- PGS 3: Virtus.pro Caps Off the First Cir
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=578080)
@@ -71,8 +71,8 @@
 [查看官网更新 →](https://store.steampowered.com/news/app=2866900)
 
 ### 暗区突围
-- **Season 4 Security Report** (2026-04-08)
-- Season 4 Security Report
+- **Protectors of Peace—Thank You to Every Inspector K** (2026-04-09)
+- Protectors of Peace—Thank You to Every I
 - Steam 更新
 
 [查看官网更新 →](https://store.steampowered.com/news/app=2073620)
